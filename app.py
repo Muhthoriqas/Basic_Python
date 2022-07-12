@@ -28,12 +28,12 @@ age_month = int(12 - birth_month)
 print(age_year, age_month)
 
 #TODO: Position
-name = "Muh Thoriq Ali Said"
+name = "M Thoriq A S"
 name2 = name[-4:-1];
 
 msg= f'{name} [{name2}] yes!!!'
 print(msg)
-print(name[0:3]) #! Muh
+print(name[0:3]) #! M
 print(name[4:-9]) #! Thoriq
 
 #TODO: Function
@@ -384,7 +384,7 @@ def welcome(firstname, lastname):
 name = input("Enter your name: ")
 name2 = input("Enter your last name: ")
 welcome(name, name2)
-welcome("Ali", "S")
+welcome("A", "S")
 
 def square(side):
     return side * side;
