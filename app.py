@@ -533,8 +533,10 @@ from pathlib import Path
 
 path = Path("shop")
 print(path.exists())
+
 new = Path("newFile")
 print(new.mkdir())
+
 globPath= Path()
 for file in globPath.glob("*.py"):
     print(file)
