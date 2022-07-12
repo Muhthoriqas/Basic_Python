@@ -381,7 +381,7 @@ phone()
 def welcome(firstname, lastname):
     print('Welome ',firstname,lastname)
 
-name = input("Enter your name: ")
+name = input("Enter your first name: ")
 name2 = input("Enter your last name: ")
 welcome(name, name2)
 welcome("A", "S")
