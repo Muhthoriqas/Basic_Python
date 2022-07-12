@@ -8,4 +8,4 @@ If you want use app.py:
 3. Run Your code
 
 I Learn at Programming With Mosh-Full Course Python, but i little bit change the code  when i learn and watch the video
-here the link: https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=13874s
+here the link: https://youtu.be/_uQrJ0TkZlc
